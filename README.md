@@ -1,0 +1,3 @@
+# javascript_game_rock_paper_scissor
+It'a game for learning javascript...
+user can choose rock, paper or scissor and the computer will pick the item randomly and will show the result on the scree. 
